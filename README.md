@@ -1,48 +1,37 @@
-## Your Name
+## Lubos Michalic
+### "We rise by lifting each other."
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+  Currently aspiring to become a Full Stack Developer over at Makers Academy, a coding bootcamp based in London.
 
 ## Skills
 
-#### This Skill
+#### Empathic Leadership
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Combination of charisma and empathy that lends itself to effective leadership, with a 'no man left behind' mantra
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Quick Study
+Insatiable curiosity and a drive to learn, mixed together to make for an adaptive candidate to any setting.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2017 to July 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Inquisitive, research-driven problem-solver
+- OOP, TDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby,
+- Rspec,
 
-#### Your University / College (start_date to end_date)
+#### City University of New York, Baruch College  (2008 to 2011)
+BBA in Finance and Computer Science  
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
 
 ## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### UberEATS, Deliveroo  (Apr 2016 - April 2017)
+Self-Employed Bike Courier
+#### Retail Marketing Group with LG, Microsoft (September 2015 - June 2016)
+Brand Ambassador
+#### Dixon Carphone (June 2014 - September 2015)
+Sales Colleague, B2B Liason
+#### Astoria Soundworks (Jan 2003 to Jan 2010)   
+Intern, Audio Engineer, Shift Leader, Night Manager
