@@ -1,5 +1,5 @@
 ## Lubos Michalic
-### "We rise by lifting each other."
+### "We rise by lifting others."
 
   Currently aspiring to become a Full Stack Developer over at Makers Academy, a coding bootcamp based in London.
 
