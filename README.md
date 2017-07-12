@@ -6,7 +6,7 @@
 ### "We rise by lifting others."
 
 
-  A Full Stack Developer fresh out of Makers Academy, a highly selective coding bootcamp based in London. 
+  I am a very passionate, inquisitive Full Stack Developer having completed Makers Academy, a highly selective coding bootcamp based in London looking for a position in which I hope to grow my software craftsmanship.
 
 
 ## Projects
