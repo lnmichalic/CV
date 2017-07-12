@@ -1,7 +1,11 @@
 ## Lubos Michalic
+<<<<<<< HEAD
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | <a href="http://lubos.io"/>Website</a>
 
 ### "We rise by lifting each other."
+=======
+### "We rise by lifting others."
+>>>>>>> 01bca821d5247f18a39e8db62c4d8a032a3d3964
 
   A Full Stack Developer fresh out of Makers Academy, a highly selective coding bootcamp based in London.
 
