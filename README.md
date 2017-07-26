@@ -1,12 +1,12 @@
 ## Lubos Michalic
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | <a href="http://lubos.io"/>Website</a>
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) 
 
 
 ### "We rise by lifting others."
 
 
-  I am a very passionate, inquisitive Full Stack Developer having completed Makers Academy, a highly selective coding bootcamp based in London looking for a position in which I hope to grow my software craftsmanship.
+  I am a very passionate, inquisitive Full Stack Engineer having completed Makers Academy, a highly selective coding bootcamp based in London looking for a position in which I hope to grow my software craftsmanship.
 
 
 ## Projects
