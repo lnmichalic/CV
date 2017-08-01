@@ -55,7 +55,7 @@ BBA in Finance and Computer Science
 
 ## Community Involvement
 - QueerCode London - joined QueerCode when I have found out about it in
-- AIDS Center of Queens County - Intern
+- London Software Craftsmanship Community meetups
 - London Gaymers
 
 ## Experience
