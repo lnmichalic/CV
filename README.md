@@ -15,7 +15,7 @@
                                                                     
                                                                     
 ```
-## Lubos Michalic
+## Luboš Michalič
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [Interests](#interests)
 
