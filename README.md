@@ -58,7 +58,7 @@ BBA in Finance and Computer Science
 - London Gaymers
 
 ## Experience
-#### UberEATS, Deliveroo  (Apr 2016 - April 2017)
+#### Deliveroo, UberEATS  (Apr 2016 - April 2017)
 Self-Employed Bike Courier
 #### Retail Marketing Group with LG, Microsoft (September 2015 - June 2016)
 Brand Ambassador
