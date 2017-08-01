@@ -1,6 +1,6 @@
 ## Lubos Michalic
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) 
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects)
 
 
 ### "We rise by lifting others."
@@ -17,7 +17,8 @@
 | [Chitter Challenge](https://github.com/lubosmichalic/chitter-challenge)  | Week 4 - 2 days  | First Full-Stack, Heroku-deployed app done over the weekend mimicking Twitter [Chitter on Heroku](http://chitty-chitter.herokuapp.com/posts)  | Ruby, RSpec, Sinatra, PostgreSQL, DataMapper |
 | [Acebook](https://github.com/lubosmichalic/acebook-team-KILAS)  | Week 8 - 5 days  | Group Project created using Rails similar to another popular social media website | Rails, RSpec, PostgreSQL, ActiveRecord, Bootstrap  |
 | [Impostagram](https://github.com/lubosmichalic/impostagram)  | Week 8 - 2 days  | Weekend Challenge in Rails that recreates yet another popular social media website [Impostagram on Heroku](https://impostagram.herokuapp.com/) | Rails, RSpec, PostgreSQL, ActiveRecord,   |
-| [ShowNTell](https://github.com/lubosmichalic/showNtell)  | Week 9 - 5 days  | Group Project in Python that uses TensorFlow Open Detection API to read out loud the items it recognizes in uploaded pictures from over 90 pre-trained models   | Python, UnitTest, Flask, TensorFlow, TF Object Detention API  |   |
+| [ShowNTell](https://github.com/lubosmichalic/showNtell)  | Week 9 - 5 days  | Group Project in Python that uses TensorFlow Open Detection API to read out loud the items it recognizes in uploaded pictures from over 90 pre-trained models   | Python, UnitTest, Flask, TensorFlow, TF Object Detention API  |
+| [RememberAll](https://github.com/lubosmichalic/RememberAll)  | Week 11/12 - 2 weeks  | Final Project, a React-Native app that runs on both iOS and Android natively that helps users remember things about people they've met. | React-Native, Jest, Cavy, Realm, XCode, Android Studio  |  |
 
 ## Skills
 
@@ -42,7 +43,7 @@ Insatiable curiosity and a drive to learn, mixed together to make for an adaptiv
 - SOLID Principles
 - Language Agnosticism
 - Ruby Full-Stack (RSpec, Sinatra, DataMapper, Rails, ActiveRecord)
-- JavaSript
+- JavaScript
 
 #### City University of New York, Baruch College  (2008 to 2011)
 BBA in Finance and Computer Science  
@@ -55,7 +56,6 @@ BBA in Finance and Computer Science
 - QueerCode London - joined QueerCode when I have found out about it in
 - AIDS Center of Queens County - Intern
 - London Gaymers
--
 
 ## Experience
 #### UberEATS, Deliveroo  (Apr 2016 - April 2017)
