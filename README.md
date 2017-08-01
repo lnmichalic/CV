@@ -1,3 +1,20 @@
+```
+
+888               888                                               
+888     8888 8888 888 88e   e88 88e   dP"Y                          
+888     8888 8888 888 888b d888 888b C88b                           
+888  ,d Y888 888P 888 888P Y888 888P  Y88D                          
+888,d88  "88 88"  888 88"   "88 88"  d,dP                           
+                                                                    
+                                                                    
+            e   e     ,e,          888             888 ,e,          
+           d8b d8b     "   e88'888 888 ee   ,"Y88b 888  "   e88'888 
+          e Y8b Y8b   888 d888  '8 888 88b "8" 888 888 888 d888  '8 
+         d8b Y8b Y8b  888 Y888   , 888 888 ,ee 888 888 888 Y888   , 
+        d888b Y8b Y8b 888  "88,e8' 888 888 "88 888 888 888  "88,e8' 
+                                                                    
+                                                                    
+```
 ## Lubos Michalic
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [Interests](#interests)
