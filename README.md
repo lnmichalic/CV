@@ -61,15 +61,19 @@ BBA in Finance and Computer Science
 ## Experience
 #### Deliveroo, UberEATS  (Apr 2016 - April 2017)
 *Self-Employed Bike Courier*
-Delivered little packages of joy(food) to customers with a smile and a sparkling attitude.
+
+Delivered little packages of joy (food) to customers with a smile and a sparkling attitude.
 #### Retail Marketing Group with LG, Microsoft (September 2015 - June 2016)
 *Brand Ambassador*
+
 Gave support and educated customers on new pieces of technology.
 #### Dixon Carphone (June 2014 - September 2015)
 *Sales Colleague, B2B Liaison*
+
 Quickly learned a bespoke B2B software and supported a team of colleagues with processing sales.
 #### Astoria Soundworks (Jan 2003 to Jan 2010)   
 *Intern, Audio Engineer, Shift Leader, Night Manager*
+
 Supported musicians with AV tech support.
 ## Interests
 #### Other shenanigans I get up to:
