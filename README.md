@@ -5,15 +5,15 @@
 888     8888 8888 888 888b d888 888b C88b                           
 888  ,d Y888 888P 888 888P Y888 888P  Y88D                          
 888,d88  "88 88"  888 88"   "88 88"  d,dP                           
-                                                                    
-                                                                    
+
+
             e   e     ,e,          888             888 ,e,          
-           d8b d8b     "   e88'888 888 ee   ,"Y88b 888  "   e88'888 
-          e Y8b Y8b   888 d888  '8 888 88b "8" 888 888 888 d888  '8 
-         d8b Y8b Y8b  888 Y888   , 888 888 ,ee 888 888 888 Y888   , 
-        d888b Y8b Y8b 888  "88,e8' 888 888 "88 888 888 888  "88,e8' 
-                                                                    
-                                                                    
+           d8b d8b     "   e88'888 888 ee   ,"Y88b 888  "   e88'888
+          e Y8b Y8b   888 d888  '8 888 88b "8" 888 888 888 d888  '8
+         d8b Y8b Y8b  888 Y888   , 888 888 ,ee 888 888 888 Y888   ,
+        d888b Y8b Y8b 888  "88,e8' 888 888 "88 888 888 888  "88,e8'
+
+
 ```
 ## Luboš Michalič
 
@@ -30,12 +30,12 @@
 
 | Title | Timeframe | What is it?  | Technologies |  
 |---|---|---|---|
-| [Airport Challenge](https://github.com/lubosmichalic/airport_challenge) | Week 1 - 2 days  | First Weekend Challenge from Makers simulating Airport Air Traffic Controls System | Ruby, RSpec |  
-| [Chitter Challenge](https://github.com/lubosmichalic/chitter-challenge)  | Week 4 - 2 days  | First Full-Stack, Heroku-deployed app done over the weekend mimicking Twitter [Chitter on Heroku](http://chitty-chitter.herokuapp.com/posts)  | Ruby, RSpec, Sinatra, PostgreSQL, DataMapper |
-| [Acebook](https://github.com/lubosmichalic/acebook-team-KILAS)  | Week 8 - 5 days  | Group Project created using Rails similar to another popular social media website | Rails, RSpec, PostgreSQL, ActiveRecord, Bootstrap  |
-| [Impostagram](https://github.com/lubosmichalic/impostagram)  | Week 8 - 2 days  | Weekend Challenge in Rails that recreates yet another popular social media website [Impostagram on Heroku](https://impostagram.herokuapp.com/) | Rails, RSpec, PostgreSQL, ActiveRecord,   |
-| [ShowNTell](https://github.com/lubosmichalic/showNtell)  | Week 9 - 5 days  | Group Project in Python that uses TensorFlow Open Detection API to read out loud the items it recognizes in uploaded pictures from over 90 pre-trained models   | Python, UnitTest, Flask, TensorFlow, TF Object Detention API  |
 | [RememberAll](https://github.com/lubosmichalic/RememberAll)  | Week 11/12 - 2 weeks  | Final Project, a React-Native app that runs on both iOS and Android natively that helps users remember things about people they've met. | React-Native, Jest, Cavy, Realm, XCode, Android Studio  |  |
+| [ShowNTell](https://github.com/lubosmichalic/showNtell)  | Week 9 - 5 days  | Group Project in Python that uses TensorFlow Open Detection API to read out loud the items it recognizes in uploaded pictures from over 90 pre-trained models   | Python, UnitTest, Flask, TensorFlow, TF Object Detention API  |
+| [Impostagram](https://github.com/lubosmichalic/impostagram)  | Week 8 - 2 days  | Weekend Challenge in Rails that recreates yet another popular social media website [Impostagram on Heroku](https://impostagram.herokuapp.com/) | Rails, RSpec, PostgreSQL, ActiveRecord,   |
+| [Acebook](https://github.com/lubosmichalic/acebook-team-KILAS)  | Week 8 - 5 days  | Group Project created using Rails similar to another popular social media website | Rails, RSpec, PostgreSQL, ActiveRecord, Bootstrap  |
+| [Chitter Challenge](https://github.com/lubosmichalic/chitter-challenge)  | Week 4 - 2 days  | First Full-Stack, Heroku-deployed app done over the weekend mimicking Twitter [Chitter on Heroku](http://chitty-chitter.herokuapp.com/posts)  | Ruby, RSpec, Sinatra, PostgreSQL, DataMapper |
+| [Airport Challenge](https://github.com/lubosmichalic/airport_challenge) | Week 1 - 2 days  | First Weekend Challenge from Makers simulating Airport Air Traffic Controls System | Ruby, RSpec |  
 
 ## Skills
 
