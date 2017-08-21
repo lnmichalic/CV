@@ -17,11 +17,7 @@
 ```
 ## Luboš Michalič
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [Interests](#interests)
-
-
-### "We rise by lifting others."
-
+ [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |[Interests](#interests)
 
   I am a passionate, inquisitive Full Stack Engineer. I have completed Makers Academy, a highly selective coding bootcamp based in London and I am looking for a position in which I will grow my software craftsmanship skills. I want to be able to make things, I want to be able to create something and be able to perfect it. I want to craft software.
 
@@ -44,9 +40,11 @@
 My combination of charisma and empathy lends itself to effective leadership and I have a 'no man left behind' mantra - I am dedicated to the well being and success of teams I am part of.
 
 #### Quick Study
+
 Insatiable curiosity and a drive to learn, mixed together to make for an adaptive candidate in any setting.
 
 #### Perseverance
+
 Whether on a bicycle or in a programming bootcamp, I have maintained my determination to rise to challenges and make successes out of them.
 
 ## Education
