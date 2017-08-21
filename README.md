@@ -68,11 +68,6 @@ BBA in Finance and Computer Science
 
 #### Brooklyn Technical High School
 
-## Community Involvement
-- QueerCode London - joined QueerCode when I have found out about it in
-- London Software Craftsmanship Community meetups
-- London Gaymers
-
 ## Experience
 #### Deliveroo, UberEATS  (Apr 2016 - April 2017)
 *Self-Employed Bike Courier*
@@ -86,13 +81,27 @@ Gave support and educated customers on new pieces of technology.
 *Sales Colleague, B2B Liaison*
 
 Quickly learned a bespoke B2B software and supported a team of colleagues with processing sales.
+
+#### Ingema s.r.o. (March 2011 - September 2011)
+*Logistician*
+
+Handled supply chain management for multitudes of items with various international manufacturers.
+
 #### Astoria Soundworks (Jan 2003 to Jan 2010)   
 *Intern, Audio Engineer, Shift Leader, Night Manager*
 
 Supported musicians with AV tech support.
+
+## Languages
+- English
+- Slovak
+- Czech
+- Polish
+
+
 ## Interests
 #### Other shenanigans I get up to:
-- Cycling through life
+- Cycling
 - Practicing yoga
 - Creating elaborate bases in Rimworld
 - Connoisseur of synthwave
