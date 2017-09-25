@@ -69,25 +69,37 @@ BBA in Finance and Computer Science
 #### Brooklyn Technical High School
 
 ## Experience
+
+#### Victoria and Albert Museum (Sept 2017 - present)
+London, UK
+*Software Developer
+Extending a large codebase to incorporate a new template to the CMS system tended by the content team at V&A.
+Employing Test-Driven Development to engineer new features along the entire stack, using Rails, React, Fractal and SCSS with testing in Mini-Test, and Circle CI, with job management in JIRA.
+
 #### Deliveroo, UberEATS  (Apr 2016 - April 2017)
+London, UK
 *Self-Employed Bike Courier*
 
 Delivered little packages of joy (food) to customers with a smile and a sparkling attitude.
 #### Retail Marketing Group with LG, Microsoft (September 2015 - June 2016)
+London,UK
 *Brand Ambassador*
 
 Gave support and educated customers on new pieces of technology.
 #### Dixon Carphone (June 2014 - September 2015)
+London, UK
 *Sales Colleague, B2B Liaison*
 
 Quickly learned a bespoke B2B software and supported a team of colleagues with processing sales.
 
 #### Ingema s.r.o. (March 2011 - September 2011)
+Michalovce, Slovak Republic
 *Logistician*
 
 Handled supply chain management for multitudes of items with various international manufacturers.
 
-#### Astoria Soundworks (Jan 2003 to Jan 2010)   
+#### Astoria Soundworks (Jan 2003 to Jan 2010)
+Queens, NY  
 *Intern, Audio Engineer, Shift Leader, Night Manager*
 
 Supported musicians with AV tech support.
