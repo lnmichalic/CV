@@ -17,7 +17,7 @@
 ```
 ## Luboš Michalič
 
- [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |[Interests](#interests)
+ [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
   I am a passionate, inquisitive full stack engineer. I have completed Makers Academy, a highly selective coding bootcamp based in London and I am looking for a position in which I will be able to grow my software craftsmanship skills. 
   
