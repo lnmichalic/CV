@@ -19,7 +19,9 @@
 
  [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |[Interests](#interests)
 
-  I am a passionate, inquisitive Full Stack Engineer. I have completed Makers Academy, a highly selective coding bootcamp based in London and I am looking for a position in which I will grow my software craftsmanship skills. I want to be able to make things, I want to be able to create something and be able to perfect it. I want to craft software.
+  I am a passionate, inquisitive full stack engineer. I have completed Makers Academy, a highly selective coding bootcamp based in London and I am looking for a position in which I will be able to grow my software craftsmanship skills. 
+  
+I want to make things. I want to create things and be able to perfect them. I want to craft software.
 
 
 ## Projects
@@ -51,7 +53,7 @@ Whether on a bicycle or in a programming bootcamp, I have maintained my determin
 
 #### Makers Academy (May 2017 to July 2017)
 
-- Inquisitive, research-driven problem-solver
+- Inquisitive, research-driven problem-solving skills
 - Object Oriented Development, Behavior Driven Development
 - Test Driven Development
 - Software Craftsmanship
@@ -65,6 +67,7 @@ Whether on a bicycle or in a programming bootcamp, I have maintained my determin
 BBA in Finance and Computer Science  
 
 #### CAS Manhattan High School
+High School Diploma
 
 #### Brooklyn Technical High School
 
