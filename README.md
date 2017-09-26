@@ -72,7 +72,8 @@ BBA in Finance and Computer Science
 
 #### Victoria and Albert Museum (Sept 2017 - present)
 London, UK
-*Software Developer
+*Software Developer*
+
 Extending a large codebase to incorporate a new template to the CMS system tended by the content team at V&A.
 Employing Test-Driven Development to engineer new features along the entire stack, using Rails, React, Fractal and SCSS with testing in Mini-Test, and Circle CI, with job management in JIRA.
 
